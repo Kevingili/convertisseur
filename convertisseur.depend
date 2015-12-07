@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1414673792 source:c:\users\kevin\desktop\convertisseur\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1414674395 source:c:\users\kevin\documents\bts_sio\si_4\convertisseur\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1414674395 source:c:\users\kevin\desktop\portfolio\convertisseur\main.c
+	<stdio.h>
+	<stdlib.h>
+
